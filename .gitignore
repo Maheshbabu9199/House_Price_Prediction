@@ -1,0 +1,9 @@
+*.egg-info/
+env_new/
+static/
+templates/
+myenv/
+Artifacts/
+Artifacts-old/
+/flask_app.py
+/*.ipynb
